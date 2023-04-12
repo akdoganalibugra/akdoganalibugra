@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-Experienced blockchain developer with an open to discovery in computer science and a passion for distributed ledger technology. Skilled in developing smart contracts and decentralized applications using Hyperledger Fabric and Nodejs.
+A backend developer with an opportunistic view of discovering and leveraging innovations in computing technologies. Skilled in RESTful using API and Nodejs. He also has degrees in hackathons with smart contracts and decentralized applications using Hyperledger Fabric and Nodejs.
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🌱 &nbsp; Developing more about IBM Hyperledger, Ethereum and another Blockchain Technologies.
