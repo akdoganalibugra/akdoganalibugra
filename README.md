@@ -2,10 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-A backend developer with an opportunistic view of discovering and leveraging innovations in computing technologies. Skilled in RESTful using API and Nodejs. He also has degrees in hackathons with smart contracts and decentralized applications using Hyperledger Fabric and Nodejs.
-
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🌱 &nbsp; Developing more about IBM Hyperledger, Ethereum and another Blockchain Technologies.
+A software engineer intern with an opportunistic perspective on discovering and exploiting innovations in the software field. Skilled in developing effective projects using React Native and Node.js. He also has degrees in the hackathons he participated in.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
