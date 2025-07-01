@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-A software engineer intern with an opportunistic perspective on discovering and exploiting innovations in the software field. Skilled in developing effective projects using React Native and Node.js. He also has degrees in the hackathons he participated in.
+A software engineer with an opportunistic perspective on discovering and exploiting innovations in the software field. Skilled in developing effective projects using Node.js. He also has degrees in the hackathons he participated in.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
